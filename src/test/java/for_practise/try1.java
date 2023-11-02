@@ -18,10 +18,10 @@ public class try1 {
 		
 		//now last push try 
 		System.out.println("1");
-		System.out.println("2");
+		System.out.println("2222"); //manager did some changes
 		System.out.println("3");
 		System.out.println("4");
-		System.out.println("5");
+		System.out.println("555555"); //manager did some changes
 	
 	}
 

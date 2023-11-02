@@ -15,6 +15,13 @@ public class try1 {
 		//now second push 
 		System.out.println("************");
 		System.out.println("12");
+		
+		//now last push try 
+		System.out.println("1");
+		System.out.println("2");
+		System.out.println("3");
+		System.out.println("4");
+		System.out.println("5");
 	
 	}
 

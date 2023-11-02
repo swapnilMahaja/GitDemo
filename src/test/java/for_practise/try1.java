@@ -12,6 +12,10 @@ public class try1 {
 		
 		System.out.println("selenium automation");
 		System.out.println("Api restAssured Automation");
+		//now second push 
+		System.out.println("************");
+		System.out.println("12");
+		
 	}
 
 }

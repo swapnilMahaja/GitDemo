@@ -15,9 +15,7 @@ public class try1 {
 		//now second push 
 		System.out.println("************");
 		System.out.println("12");
-		//3 re commit
-		System.out.println("3 rd time committing");
-		
+	
 	}
 
 }

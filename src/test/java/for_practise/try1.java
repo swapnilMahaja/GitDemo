@@ -15,6 +15,9 @@ public class try1 {
 		//now second push 
 		System.out.println("************");
 		System.out.println("12");
+		//kasjbcabsccjb
+		//ejvbv
+	
 		
 	}
 
